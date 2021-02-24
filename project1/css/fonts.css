@@ -1,0 +1,20 @@
+
+@font-face{
+    font-family: Jomhuria;
+    src: url(../fonts/Jomhuria/Jomhuria-Regular.ttf);
+}
+
+@font-face{
+    font-family: BigShoulder;
+    src: url(../fonts/Big_Shoulders_Display/BigShouldersDisplay-Black.ttf);
+}
+
+@font-face{
+    font-family: Playfair;
+    src: url(../fonts/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf);
+}
+
+@font-face{
+    font-family: Roboto;
+    src: url(../fonts/Roboto_Condensed/RobotoCondensed-Bold.ttf);
+}
